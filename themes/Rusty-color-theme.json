@@ -2,7 +2,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#E3D2B1",
 				"foreground": "#696767"
 			}
 		},
@@ -231,7 +230,7 @@
 		"editor.foreground": "#696767",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.selectionBackground": "#C9DDE0B0",
-		"focusBorder": "#e2dac8",
+		"focusBorder": "#ecebe7",
 		"activityBar.background": "#272822",
 		"activityBar.dropBackground": "#696767",
 		"activityBar.foreground": "#ffffff",
