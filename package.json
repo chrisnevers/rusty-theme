@@ -16,6 +16,13 @@
                 "uiTheme": "vs",
                 "path": "./themes/Rusty-color-theme.json"
             }
+        ],
+        "grammars": [
+            {
+                "path": "./syntaxes/inject.json",
+                "scopeName": "todo-comment.injection",
+                "injectTo": ["source.ocaml", "source.java", "source.haskell"]
+            }
         ]
     }
 }

@@ -1,0 +1,16 @@
+{
+  "scopeName": "todo-comment.injection",
+  "injectionSelector": "L:comment",
+  "patterns": [
+    {
+      "include": "#todo-keyword"
+    }
+  ],
+  "repository": {
+    "todo-keyword": {
+      "match": "TODO",
+      "name": "keyword.todo"
+    }
+  }
+}
+
