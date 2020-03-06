@@ -6,7 +6,7 @@
         "url": "http://github.com/chrisnevers/rusty-theme"
     },
     "description": "A simple, soft color theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.42.0"
     },
@@ -25,7 +25,11 @@
             {
                 "path": "./syntaxes/inject.json",
                 "scopeName": "todo-comment.injection",
-                "injectTo": ["source.ocaml", "source.java", "source.haskell"]
+                "injectTo": [
+                    "source.ocaml",
+                    "source.java",
+                    "source.haskell"
+                ]
             }
         ]
     }
