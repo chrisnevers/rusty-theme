@@ -1,0 +1,244 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#E3D2B1",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#9390AB"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#BA8A8A"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#BA8A8A"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#8AB8A0"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#8AB8A0"
+			}
+		},
+				{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.language.variant.ocaml",
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#8AB8A0"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#696767",
+				"background": "#FFFF0000",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#A4B576",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "italic underline",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#A4B576",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#838F66"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#666666"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#BA8A8A",
+				"fontStyle": "",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"background": "#9F9BBD",
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "Type Def",
+			"scope": "meta.type-definition-group.ocaml meta.type-definition.ocaml entity.name.type.variant.ocaml",
+			"settings": {
+				"foreground": "#696767",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Tag Label",
+			"scope": "entity.name.tag.label.ocaml",
+			"settings": {
+				"foreground": "#3D3D3D",
+				"background": "#00000000"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#696767"
+			}
+		},
+		{
+			"name": "User Type",
+			"scope": "storage.type.user-defined.ocaml",
+			"settings": {
+				"foreground": "#A4B576",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Definition Group",
+			"scope": "meta.type-definition-group.ocaml meta.type-definition.ocaml storage.type.ocaml",
+			"settings": {
+				"foreground": "#A4B576",
+				"background": "#EDFFBD00",
+				"fontStyle": " bold"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#ecebe7",
+		"editor.foreground": "#696767",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.selectionBackground": "#C9DDE0B0",
+		"focusBorder": "#e2dac8",
+		"activityBar.background": "#272822",
+		"activityBar.dropBackground": "#696767",
+		"activityBar.foreground": "#ffffff",
+		"sideBar.background": "#ecebe7",
+		"badge.background": "#A4B576",
+		"badge.foreground": "#696767",
+		"statusBar.background": "#A4B576",
+	},
+	"name": "Rusty"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "rusty",
+    "displayName": "Rusty",
+    "description": "A simple, soft color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rusty",
+                "uiTheme": "vs",
+                "path": "./themes/Rusty-color-theme.json"
+            }
+        ]
+    }
+}
