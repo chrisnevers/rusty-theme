@@ -1,6 +1,10 @@
 {
     "name": "rusty",
     "displayName": "Rusty",
+    "publisher": "chrisnevers",
+    "repository": {
+        "url": "http://github.com/chrisnevers/rusty-theme"
+    },
     "description": "A simple, soft color theme",
     "version": "0.0.1",
     "engines": {
