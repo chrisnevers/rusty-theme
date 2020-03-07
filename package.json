@@ -10,7 +10,7 @@
     "engines": {
         "vscode": "^1.42.0"
     },
-    "icon": "https://raw.githubusercontent.com/chrisnevers/rusty-theme/master/images/icon.png",
+    "icon": "./images/icon.png",
     "categories": [
         "Themes"
     ],
