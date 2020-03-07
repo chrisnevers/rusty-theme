@@ -6,7 +6,7 @@
         "url": "http://github.com/chrisnevers/rusty-theme"
     },
     "description": "A simple, soft color theme",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.42.0"
     },
