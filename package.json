@@ -1,6 +1,6 @@
 {
     "name": "rusty",
-    "displayName": "Rusty",
+    "displayName": "Rusty Theme",
     "publisher": "chrisnevers",
     "repository": {
         "url": "http://github.com/chrisnevers/rusty-theme"
@@ -10,6 +10,7 @@
     "engines": {
         "vscode": "^1.42.0"
     },
+    "icon": "https://raw.githubusercontent.com/chrisnevers/rusty-theme/master/images/icon.png",
     "categories": [
         "Themes"
     ],
