@@ -297,6 +297,29 @@
 				"background": "#EDFFBD00",
 				"fontStyle": " bold"
 			}
+		},
+		{
+			"name": "entity.name.tag",
+			"scope":  "entity.name.tag",
+			"settings": {
+				"foreground": "#8ab0b8",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "support.class.component",
+			"scope":  "support.class.component",
+			"settings": {
+				"foreground": "#8ab0b8",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "entity.other.attribute-name",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": " bold"
+			}
 		}
 	],
 	"colors": {
