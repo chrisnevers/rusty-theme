@@ -1,4 +1,7 @@
 # Rusty Theme
+
+![Downloads](https://img.shields.io/visual-studio-marketplace/i/chrisnevers.rusty?style=flat-square)
+
 A simple, soft color theme for Visual Studio Code. Optimized for OCaml.
 
 ## OCaml
